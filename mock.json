@@ -1,0 +1,40 @@
+{
+  "formSettings": {
+    "jobTitle": "Full-Stack Developer",
+    "name": "Alexis",
+    "lastName": "Yehadji",
+    "email": "yehadjialexis@gmail.com",
+    "location": "Lomé, Togo",
+    "phoneNumber": "+228 99861561",
+    "aboutme": "Soy clauduuauu",
+    "jobSkills": ["Nuxt.js"],
+    "softSkills": ["Teamwork"],
+    "languages": [
+      { "lang": "French", "level": "100%" },
+      { "lang": "English", "level": "50%" },
+    ],
+    "linkedin": "claudiabdm",
+    "twitter": "",
+    "github": "al-alec",
+    "education": [
+      {
+        "title": "Bachelor's Degree in Computer Science",
+        "location": "Lome, Togo",
+        "from": "2017",
+        "to": "2020",
+        "current": "false",
+        "summary": "Software at IAI-Togo for 3 years."
+      }
+    ],
+    "work": [
+      {
+        "title": "Full-Stack Developer",
+        "location": "Maono",
+        "from": "11 2021",
+        "to": "05 2022",
+        "current": "true",
+        "summary": "Erasmus internship at University of Birmingham for 9 months in my final year."
+      }
+    ]
+  }
+}
